@@ -65,8 +65,8 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Components](<img width="982" height="666" alt="image" src="https://github.com/user-attachments/assets/c73590f1-e083-452a-a8cf-3339c9deaa21" />
-)
+![Components]<img width="982" height="666" alt="image" src="https://github.com/user-attachments/assets/c73590f1-e083-452a-a8cf-3339c9deaa21" />
+
 *SG90 servo motors x2, 1.3 inch oled displays x2, esp32, webcam*
 
 ![Build](
