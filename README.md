@@ -66,8 +66,10 @@ Schematic
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1cZikAEjHjaZwgBzTEhwiTSk7EqulMo7R/view?usp=drive_link
+
+
+the following video shows the face capture, couple of examples of "distractions" and the reaction from the bot to those reactions
 
 
 
