@@ -11,7 +11,7 @@
 
 ### Team Members
 - Team Lead: Amit p jaikumar - Toch institute of science and technology
-- 
+
 ### Project Description
 A cat shapped desktop robo-pet that will judge you and get angry at you when you sit down to study and do not study. 
 
@@ -30,28 +30,25 @@ For Hardware:
 - [List specifications] : 720p 30 fps webcam, 1.3inch oled screens and 180 degree servo motors. all operating at 5v
 - [List tools required] : hardware tools - soldering iron, protoboard. Software used: python(mediapipe, opencv, serial communication), arduino ide
 
-### Implementation
-
-\
 
 ### Project Documentation
 
 For Hardware:
 
 # Schematic & Circuit
-![Circuit]
+Circuit
 <img width="542" height="776" alt="image" src="https://github.com/user-attachments/assets/d5a1b3e9-cd41-47ce-9bee-79c13b359245" />
 
 
 *SDA and SCL pins are connected to 22,21 14,27 respectively and servos are connected to 2 and 4*
 
-![Schematic]
+Schematic
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/03a994d9-be04-49c7-a60b-b26db8a1a252" />
 
 *all components are powered by 5v via a powerbank, SDA, SCL and PWM pins are connected to the oled screens and servo motors*
 
 # Build Photos
-![Components]<img width="982" height="666" alt="image" src="https://github.com/user-attachments/assets/c73590f1-e083-452a-a8cf-3339c9deaa21" />
+<img width="982" height="666" alt="image" src="https://github.com/user-attachments/assets/c73590f1-e083-452a-a8cf-3339c9deaa21" />
 
 *SG90 servo motors x2, 1.3 inch oled displays x2, esp32, webcam*
 
