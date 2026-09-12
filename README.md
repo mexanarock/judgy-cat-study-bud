@@ -31,62 +31,52 @@ For Hardware:
 - [List tools required] : hardware tools - soldering iron, protoboard. Software used: python(mediapipe, opencv, serial communication), arduino ide
 
 ### Implementation
-For Software:
-download all project files and run the following commands in cmd:
 
-
-# Run
-[commands]
+\
 
 ### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+![Circuit]
+<img width="542" height="776" alt="image" src="https://github.com/user-attachments/assets/d5a1b3e9-cd41-47ce-9bee-79c13b359245" />
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+
+*SDA and SCL pins are connected to 22,21 14,27 respectively and servos are connected to 2 and 4*
+
+![Schematic]
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/03a994d9-be04-49c7-a60b-b26db8a1a252" />
+
+*all components are powered by 5v via a powerbank, SDA, SCL and PWM pins are connected to the oled screens and servo motors*
 
 # Build Photos
 ![Components]<img width="982" height="666" alt="image" src="https://github.com/user-attachments/assets/c73590f1-e083-452a-a8cf-3339c9deaa21" />
 
 *SG90 servo motors x2, 1.3 inch oled displays x2, esp32, webcam*
 
-![Build](
-*Explain the build steps*
+# Build
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/a8add3bb-946a-442d-95a7-4a3ca3488759" />
 
-![Final](Add photo of final product here)
-*Explain the final build*
+*connections were made on a protoboard as per the schematic*
+
+![Final]
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/942c134b-1f14-4cbe-a3dd-4dd1e5fe759c" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/75bca4b2-5f09-4810-b9c4-f6bf0a56f540" />
+
+
+* 1) bot in peaceful mode, 2) bot in angry mode*
 
 ### Project Demo
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- amit p jaikumar: built it 
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
