@@ -2,7 +2,7 @@
 
 
 
-# [judgy cat] 🎯
+# judgy cat 
 
 
 ## Basic Details
@@ -26,9 +26,9 @@ unless you just ignore it.
 ## Technical Details
 ### Technologies/Components Used
 For Hardware:
-- [List main components] : webcam, esp32, oled screen, servo
-- [List specifications] : 720p 30 fps webcam, 1.3inch oled screens and 180 degree servo motors. all operating at 5v
-- [List tools required] : hardware tools - soldering iron, protoboard. Software used: python(mediapipe, opencv, serial communication), arduino ide
+- main components : webcam, esp32, oled screen, servo
+- specifications : 720p 30 fps webcam, 1.3inch oled screens and 180 degree servo motors. all operating at 5v
+- List tools required : hardware tools - soldering iron, protoboard. Software used: python(mediapipe, opencv, serial communication), arduino ide
 
 
 ### Project Documentation
@@ -57,7 +57,7 @@ Schematic
 
 *connections were made on a protoboard as per the schematic*
 
-![Final]
+# Final
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/942c134b-1f14-4cbe-a3dd-4dd1e5fe759c" />
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/75bca4b2-5f09-4810-b9c4-f6bf0a56f540" />
 
